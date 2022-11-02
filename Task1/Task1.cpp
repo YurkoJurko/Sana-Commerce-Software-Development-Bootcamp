@@ -4,5 +4,5 @@ int main()
 {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
-    printf("Hello World!");
+    printf("Sana Commerce Software Development Bootcamp");
 }
